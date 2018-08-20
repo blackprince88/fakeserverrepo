@@ -1,317 +1,37 @@
 [
   {
     "_id": "5b773277b0fe868033378d64",
-    "index": 0,
-    "guid": "251377c1-37c3-49b3-b232-d9a57f0b5770",
-    "isActive": false,
     "balance": "$1,784.79",
-    "picture": "http://placehold.it/32x32",
     "age": 21,
-    "eyeColor": "brown",
     "name": "Alvarado Beck",
     "gender": "male",
-    "company": "SLAX",
-    "email": "alvaradobeck@slax.com",
-    "phone": "+1 (913) 447-3598",
-    "address": "498 Madoc Avenue, Clay, California, 2736",
-    "about": "Laborum magna magna elit occaecat ullamco consectetur pariatur officia esse sint. Magna irure ut laborum deserunt sint sunt ex fugiat ipsum incididunt pariatur nulla adipisicing. Esse aliqua velit cupidatat magna.\r\n",
-    "registered": "2015-08-03T08:50:14 +04:00",
-    "latitude": 5.387983,
-    "longitude": 145.175324,
-    "tags": [
-      "officia",
-      "dolore",
-      "minim",
-      "est",
-      "ut",
-      "ad",
-      "duis"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Rebecca Hopkins"
-      },
-      {
-        "id": 1,
-        "name": "Burks Long"
-      },
-      {
-        "id": 2,
-        "name": "Townsend Huff"
-      }
-    ],
-    "greeting": "Hello, Alvarado Beck! You have 5 unread messages.",
-    "favoriteFruit": "banana"
   },
   {
     "_id": "5b7732774eb289007b325639",
-    "index": 1,
-    "guid": "b6e613e3-9866-4169-90b1-b6beae329285",
-    "isActive": true,
     "balance": "$3,906.28",
-    "picture": "http://placehold.it/32x32",
     "age": 27,
-    "eyeColor": "blue",
     "name": "Chris Dickson",
     "gender": "female",
-    "company": "QUORDATE",
-    "email": "chrisdickson@quordate.com",
-    "phone": "+1 (937) 477-2378",
-    "address": "386 Grand Avenue, Gorst, Alaska, 9441",
-    "about": "Sit Lorem proident veniam nostrud mollit eu duis ea culpa minim officia aute nisi voluptate. Commodo id proident et eiusmod do tempor Lorem elit. Qui velit commodo mollit consectetur amet ex mollit et est. Duis commodo dolor nostrud proident proident adipisicing reprehenderit anim cillum id do amet Lorem.\r\n",
-    "registered": "2016-11-27T03:15:23 +05:00",
-    "latitude": 74.506444,
-    "longitude": 114.149991,
-    "tags": [
-      "occaecat",
-      "enim",
-      "amet",
-      "sunt",
-      "do",
-      "officia",
-      "non"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Preston Johnston"
-      },
-      {
-        "id": 1,
-        "name": "Lucia Sparks"
-      },
-      {
-        "id": 2,
-        "name": "Mcneil Armstrong"
-      }
-    ],
-    "greeting": "Hello, Chris Dickson! You have 5 unread messages.",
-    "favoriteFruit": "strawberry"
   },
   {
     "_id": "5b773277defce86f24b846db",
-    "index": 2,
-    "guid": "a8c2c262-78c9-4600-9e64-ce0a0e4fbf37",
-    "isActive": false,
     "balance": "$2,944.07",
-    "picture": "http://placehold.it/32x32",
     "age": 26,
-    "eyeColor": "blue",
     "name": "Knight Levy",
     "gender": "male",
-    "company": "TWIGGERY",
-    "email": "knightlevy@twiggery.com",
-    "phone": "+1 (830) 581-2273",
-    "address": "316 Rockwell Place, Coral, Wyoming, 6121",
-    "about": "Et excepteur laboris do ea esse. Irure est aliquip enim sint cupidatat eiusmod consequat qui consequat ea dolore. Laborum sunt ipsum duis voluptate. Minim deserunt laborum ad pariatur. Exercitation enim culpa culpa deserunt mollit irure commodo esse quis officia quis et anim esse. Officia et aute mollit culpa eiusmod pariatur.\r\n",
-    "registered": "2017-09-19T09:10:31 +04:00",
-    "latitude": -74.049411,
-    "longitude": 105.578807,
-    "tags": [
-      "pariatur",
-      "reprehenderit",
-      "sit",
-      "labore",
-      "eu",
-      "et",
-      "non"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Herman Guzman"
-      },
-      {
-        "id": 1,
-        "name": "Reilly Holden"
-      },
-      {
-        "id": 2,
-        "name": "Kinney Savage"
-      }
-    ],
-    "greeting": "Hello, Knight Levy! You have 2 unread messages.",
-    "favoriteFruit": "apple"
   },
   {
     "_id": "5b7732775cea2647549dead4",
-    "index": 3,
-    "guid": "f873b718-f1cf-43d4-9f54-4e0989a7b661",
-    "isActive": false,
     "balance": "$3,405.77",
-    "picture": "http://placehold.it/32x32",
     "age": 26,
-    "eyeColor": "green",
     "name": "Caldwell Richards",
     "gender": "male",
-    "company": "GLUID",
-    "email": "caldwellrichards@gluid.com",
-    "phone": "+1 (981) 464-3495",
-    "address": "219 Sackman Street, Aurora, Florida, 9308",
-    "about": "Esse non duis excepteur nostrud tempor elit nostrud magna est consequat reprehenderit aliquip. Cupidatat irure ut nulla culpa consectetur dolor do aliqua aliquip. Excepteur minim ullamco nostrud cillum tempor id eiusmod duis aute officia culpa cillum eiusmod et.\r\n",
-    "registered": "2017-05-27T09:39:07 +04:00",
-    "latitude": -75.571804,
-    "longitude": 177.444613,
-    "tags": [
-      "quis",
-      "elit",
-      "consequat",
-      "ipsum",
-      "dolor",
-      "nostrud",
-      "est"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Whitehead Conway"
-      },
-      {
-        "id": 1,
-        "name": "Sandra Rosario"
-      },
-      {
-        "id": 2,
-        "name": "Carver Fulton"
-      }
-    ],
-    "greeting": "Hello, Caldwell Richards! You have 8 unread messages.",
-    "favoriteFruit": "banana"
   },
   {
     "_id": "5b773277ca4953f3bf671719",
-    "index": 4,
-    "guid": "cef230fd-fed4-4750-a9f0-91e36d71e8ca",
-    "isActive": true,
     "balance": "$1,780.91",
-    "picture": "http://placehold.it/32x32",
     "age": 27,
-    "eyeColor": "blue",
     "name": "Steele Mcdowell",
     "gender": "male",
-    "company": "STEELTAB",
-    "email": "steelemcdowell@steeltab.com",
-    "phone": "+1 (818) 544-2719",
-    "address": "940 Florence Avenue, Day, Puerto Rico, 8082",
-    "about": "Fugiat do adipisicing nisi ex mollit consequat cupidatat. Sit non minim ex aute cillum velit aliquip veniam excepteur incididunt reprehenderit sit elit. Nulla cupidatat consectetur sit eiusmod dolor in sint qui labore officia.\r\n",
-    "registered": "2016-11-29T10:14:31 +05:00",
-    "latitude": -42.774854,
-    "longitude": 49.593057,
-    "tags": [
-      "Lorem",
-      "qui",
-      "culpa",
-      "minim",
-      "veniam",
-      "ex",
-      "ullamco"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Carolyn Dickerson"
-      },
-      {
-        "id": 1,
-        "name": "Queen Hayden"
-      },
-      {
-        "id": 2,
-        "name": "Margarita Huber"
-      }
-    ],
-    "greeting": "Hello, Steele Mcdowell! You have 6 unread messages.",
-    "favoriteFruit": "apple"
   },
-  {
-    "_id": "5b773277c351e2ec317e71b7",
-    "index": 5,
-    "guid": "0aae36d7-9ed4-4cfc-bd95-dae841760a16",
-    "isActive": false,
-    "balance": "$1,469.78",
-    "picture": "http://placehold.it/32x32",
-    "age": 28,
-    "eyeColor": "brown",
-    "name": "Jenna Odom",
-    "gender": "female",
-    "company": "KAGGLE",
-    "email": "jennaodom@kaggle.com",
-    "phone": "+1 (996) 421-2646",
-    "address": "467 Albee Square, Dupuyer, Tennessee, 979",
-    "about": "Dolor cupidatat sint et sit irure non eu labore Lorem laboris consectetur in reprehenderit. Duis laborum ut eiusmod consequat labore officia. Sit amet veniam do incididunt mollit. Enim adipisicing voluptate quis mollit non veniam tempor id do elit id quis ad ullamco.\r\n",
-    "registered": "2018-01-06T08:45:39 +05:00",
-    "latitude": 47.907407,
-    "longitude": -51.698375,
-    "tags": [
-      "culpa",
-      "irure",
-      "aute",
-      "ullamco",
-      "irure",
-      "ad",
-      "incididunt"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Massey Merritt"
-      },
-      {
-        "id": 1,
-        "name": "Doris Brown"
-      },
-      {
-        "id": 2,
-        "name": "Madden Riddle"
-      }
-    ],
-    "greeting": "Hello, Jenna Odom! You have 9 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "_id": "5b773277848ad04e019cb8d6",
-    "index": 6,
-    "guid": "47948e07-09cd-4aaa-90e1-03042f3c5b01",
-    "isActive": false,
-    "balance": "$1,742.06",
-    "picture": "http://placehold.it/32x32",
-    "age": 30,
-    "eyeColor": "brown",
-    "name": "Goldie Gordon",
-    "gender": "female",
-    "company": "QUADEEBO",
-    "email": "goldiegordon@quadeebo.com",
-    "phone": "+1 (827) 506-2791",
-    "address": "687 Williamsburg Street, Manitou, Illinois, 6954",
-    "about": "Amet officia Lorem qui excepteur elit magna ea tempor pariatur voluptate occaecat ullamco consequat. Do magna incididunt anim est sint deserunt minim Lorem esse. Et quis reprehenderit labore mollit magna velit mollit irure magna occaecat sint eiusmod eiusmod. Voluptate excepteur ex nulla dolor officia veniam voluptate aute labore quis veniam Lorem deserunt. Magna aute anim voluptate veniam laboris non et eiusmod pariatur nulla.\r\n",
-    "registered": "2015-02-09T12:27:18 +05:00",
-    "latitude": 1.398246,
-    "longitude": -158.175051,
-    "tags": [
-      "ullamco",
-      "incididunt",
-      "veniam",
-      "quis",
-      "sit",
-      "sunt",
-      "tempor"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Bright Shaw"
-      },
-      {
-        "id": 1,
-        "name": "Sullivan Perkins"
-      },
-      {
-        "id": 2,
-        "name": "Combs Chapman"
-      }
-    ],
-    "greeting": "Hello, Goldie Gordon! You have 5 unread messages.",
-    "favoriteFruit": "apple"
-  }
 ]
