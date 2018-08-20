@@ -3,35 +3,30 @@
     "id": "5b773277b0fe868033378d64",
     "balance": "$1,784.79",
     "age": 21,
-    "name": "Alvarado Beck",
-    "gender": "male"
+    "name": "Alvarado Beck"
   },
   {
     "id": "5b7732774eb289007b325639",
     "balance": "$3,906.28",
     "age": 27,
-    "name": "Chris Dickson",
-    "gender": "female"
+    "name": "Chris Dickson"
   },
   {
     "id": "5b773277defce86f24b846db",
     "balance": "$2,944.07",
     "age": 26,
-    "name": "Knight Levy",
-    "gender": "male"
+    "name": "Knight Levy"
   },
   {
     "id": "5b7732775cea2647549dead4",
     "balance": "$3,405.77",
     "age": 26,
-    "name": "Caldwell Richards",
-    "gender": "male"
+    "name": "Caldwell Richards"
   },
   {
     "id": "5b773277ca4953f3bf671719",
     "balance": "$1,780.91",
     "age": 27,
     "name": "Steele Mcdowell",
-    "gender": "male"
   }
 ]
